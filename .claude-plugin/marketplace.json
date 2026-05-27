@@ -1,0 +1,16 @@
+{
+  "name": "biblio-shelf",
+  "owner": {
+    "name": "WForest",
+    "email": "claude@wforest.jp"
+  },
+  "description": "biblio-shelf: AI Agent 向け biblio を展示・配布する本棚 (PoC-7 仕入れ検証用)",
+  "plugins": [
+    {
+      "name": "biblio-sample",
+      "source": "./plugins/biblio-sample",
+      "description": "最小の biblio サンプル (外部仕入れ検証用)",
+      "version": "0.1.0"
+    }
+  ]
+}
